@@ -1,5 +1,6 @@
 export default {
   MAX_ATTACHMENT_SIZE: 5000000,
+  STRIPE_KEY: "pk_test_ia7siLMbc9oCQmOyGI9YxLbJ",
     s3: {
       REGION: "ap-southeast-2",
       BUCKET: "serverless-notes-app-uploads-moss"
